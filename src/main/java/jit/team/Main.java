@@ -19,9 +19,9 @@ class Main {
 //        System.out.println("New public instance main in class, without arg(s).");
 //    }
 
-//    void main() {
-//        System.out.println("Just main");
-//    }
+    void main() {
+        System.out.println("Just main");
+    }
 
 //    private void main() {
 //        System.out.println("Doesn't work");

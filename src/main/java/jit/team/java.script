@@ -1,5 +1,4 @@
 #!/Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home/bin/java --source 21 --enable-preview
-
 class PeterDream {
      void main() {
         System.out.println("This is Java Script! 👿");
